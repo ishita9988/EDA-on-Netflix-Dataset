@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an EDA project on Netflix dataset. The goal is to analyze and find pattern in the data. An interactive dashboard has been created by the help of tableau to extract meaningful insights from the data.
+This is an EDA project on Netflix dataset. The goal is to analyze and find pattern in the data. An interactive dashboard has also been created by the help of tableau to extract meaningful insights from the data.
 
 ![netflix-tv-interface](https://github.com/ishita9988/EDA-on-Netflix-Dataset/assets/129153274/e305d31b-a49d-4c18-a4f9-19605a724d73)
 
