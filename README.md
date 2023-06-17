@@ -91,7 +91,7 @@ This dataset consists of listings of all the movies and tv shows available on Ne
 
 
 
-#### 8. Duration of Tv Shows
+### 8. Duration of Tv Shows
 
 <img width="617" alt="Duration_of_tv_shows" src="https://github.com/ishita9988/EDA-on-Netflix-Dataset/assets/129153274/ff2585bb-af5c-4ca5-a6cc-8d90cb8f38d5">
 
