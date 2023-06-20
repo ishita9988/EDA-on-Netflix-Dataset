@@ -124,12 +124,11 @@ This dataset consists of listings of all the movies and tv shows available on Ne
 **So we can see that most of the movies and tv shows were added in 2019 Then it decreases may be because of Corona**
 
 
-### 10. Distribution of content by date added on netflix
+### 10. Distribution of content over year
 
 
 
-
-<img width="520" alt="a10" src="https://github.com/ishita9988/EDA-on-Netflix-Dataset/assets/129153274/c3442fdb-46af-42a3-97b3-4a62847f9138">
+<img width="497" alt="a11" src="https://github.com/ishita9988/EDA-on-Netflix-Dataset/assets/129153274/b730b57b-7c0e-4819-bf3a-2b2e00ed6917">
 
 
 
