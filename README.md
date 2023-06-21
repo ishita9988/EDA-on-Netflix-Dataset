@@ -3,9 +3,9 @@
 ![netflix-tv-interface](https://github.com/ishita9988/EDA-on-Netflix-Dataset/assets/129153274/e305d31b-a49d-4c18-a4f9-19605a724d73)
 
 
-## Aim
+## Introduction
 
-This is an Exploratory Data Analysis project on Netflix dataset using Python. The goal is to analyse and extract meaningful insights from the dataset . A dashboard has also been created by the help of tableau to make the analysis interactive.
+Netflix has become one of the most successful streaming services in the world. For this project, I have conducted Exploratory Data Analysis on a Netflix dataset using Python. The goal is to analyse and gain insights into what motivates user engagement. A dashboard has also been created by the help of tableau to make the analysis interactive.
 
 
 
@@ -53,7 +53,7 @@ This dataset consists of listings of all the movies and tv shows available on Ne
 
 <img width="248" alt="content" src="https://github.com/ishita9988/EDA-on-Netflix-Dataset/assets/129153274/af1574fb-71c7-4be1-9723-3536c4294b3e">
 
-**So there are more movies than tv shows. 70% content is Movies and 30% Content is Tv-shows.**
+**So there are more movies than tv shows. 69.6% content is Movies and 30.4% Content is Tv-shows.**
 
 
 
@@ -163,7 +163,7 @@ Here we can see the [Interactive dashboard](https://public.tableau.com/app/profi
 
 * There are some missing values in director, cast and country column.
 * United States has the most number of tv shows and movies followed by india and united kingdom
-* There are more movies than tv shows. 70% content is Movies and 30% Content is Tv-shows.
+* There are more movies than tv shows. Approx 70% content is Movies and 30% Content is Tv-shows.
 * Most of the movies and tv shows are for adults (18+)
 * Year 2018 marked the highest number of movies and tv shows release.Then it decreased may be because of Corona:
 * Duration of most movies are in the range of 90 to 100 minutes
