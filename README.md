@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Netflix has become one of the most successful streaming services in the world. For this project, I have conducted Exploratory Data Analysis on a Netflix dataset using Python. The goal is to analyse and gain insights into what motivates user engagement.
+Netflix has become one of the most successful streaming services in the world. For this project, I have conducted Exploratory Data Analysis on a Netflix dataset using Python. The goal is to analyze and gain insights into what motivates user engagement.
 
 
 ## Dataset from [kaggle](https://www.kaggle.com/code/mysarahmadbhat/eda-on-netflix/notebook)
