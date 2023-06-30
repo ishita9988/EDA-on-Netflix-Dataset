@@ -5,8 +5,7 @@
 
 ## Introduction
 
-Netflix has become one of the most successful streaming services in the world. For this project, I have conducted Exploratory Data Analysis on a Netflix dataset using Python. The goal is to analyse and gain insights into what motivates user engagement. A dashboard has also been created by the help of tableau to make the analysis interactive.
-
+Netflix has become one of the most successful streaming services in the world. For this project, I have conducted Exploratory Data Analysis on a Netflix dataset using Python. The goal is to analyse and gain insights into what motivates user engagement.
 
 
 ## Dataset from [kaggle](https://www.kaggle.com/code/mysarahmadbhat/eda-on-netflix/notebook)
@@ -17,9 +16,6 @@ This dataset consists of listings of all the movies and tv shows available on Ne
 
 ## Tools Used
 * Python Library- **Pandas, NumPy, Seaborn, Matplotlib**
-* **Tableau**
-
-
 
 ## Methodology
 
@@ -137,26 +133,6 @@ This dataset consists of listings of all the movies and tv shows available on Ne
 <img width="761" alt="Top_10_genre" src="https://github.com/ishita9988/EDA-on-Netflix-Dataset/assets/129153274/d300a475-2c41-43af-beb1-889deaa9d2b6">
 
 **Dramas, International movies genre is the highest followed by Documentaries.**
-
-
-
-## To make the analysis visually interactive, I have also created a dashboard using tableau
-
-### Key metrics displayed in the dashboard include-
-
-* Cast, Genre, Description, Director, Release Year, Rating and Duration
-* Distribution of content
-* Movies and Tv shows by country
-* Top 10 Ratings
-* Top 10 Genre
-* Type over the year
-
-### The dashboard allows filtering by type( wheather it is a movie or a tv show) and title.
-
-Here we can see the [Interactive dashboard](https://public.tableau.com/app/profile/tableau7010)
-
-![Dashboard 1 (1)](https://github.com/ishita9988/EDA-on-Netflix-Dataset/assets/129153274/ea882217-123d-4e98-9dff-f28d9479d187)
-
 
 
 ## Insights
